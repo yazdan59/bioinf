@@ -11,8 +11,8 @@ Pattern Recognition and Machine Learning by Christopher Bishop.
 | Date | Title | Description | Reference |
 | --- | --- | --- | --- |
 | 1 | Introduction | Some Information about Course Contents, References, Exam Strategies | Reference |
-| 2 | NCBI Databases and Search | Learning how to Access to Sequence Data and Literature Information | Reference |
-| 3 | NCBI Databases and Search | Learning how to Access to Sequence Data and Literature Information | Reference |
+| 2 | NCBI Databases and Search | Learning how to Access to Sequence Data and Literature Information | Chapter 2 & 5: Bioinformatics and Functional Genomics, Jonathan Pevsner, John Wiley & Sons, Inc., Second Edition, 2009 |
+| 3 | NCBI Databases and Search | Learning how to Access to Sequence Data and Literature Information | Chapter 2 & 5: Bioinformatics and Functional Genomics, Jonathan Pevsner, John Wiley & Sons, Inc., Second Edition, 2009 |
 | 3-1 | Practical Session | NCBI Databases and Search | Reference |
 | 4 | Alignment | Learning Pairwise Sequence Alignment (Theory and Algorithm), Learning Basic Local Alignment Search Tool (BLAST) | Reference |
 | 5 | Alignment | Learning Pairwise Sequence Alignment (Theory and Algorithm), Learning Basic Local Alignment Search Tool (BLAST) | Reference |
