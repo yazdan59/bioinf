@@ -12,14 +12,21 @@ Pattern Recognition and Machine Learning by Christopher Bishop.
 | --- | --- | --- | --- |
 | 1 | Introduction | Some Information about Course Contents, References, Exam Strategies | Reference |
 | 2 | NCBI Databases and Search | Learning how to Access to Sequence Data and Literature Information | Reference |
-| 3 | Alignment | Some Information about Course Contents, References, Exam Strategies | Reference |
-| 4 | Alignment | Some Information about Course Contents, References, Exam Strategies | Reference |
-| 5 | Alignment | Some Information about Course Contents, References, Exam Strategies | Reference |
-| 6 | Alignment | Some Information about Course Contents, References, Exam Strategies | Reference |
-| 7 | Alignment | Some Information about Course Contents, References, Exam Strategies | Reference |
-| 8 | SNPs | Some Information about Course Contents, References, Exam Strategies | Reference |
-| 9 | Multiple Sequence Alignment / Phylogeny | Some Information about Course Contents, References, Exam Strategies | Reference |
-| 10 | Primer Design | Some Information about Course Contents, References, Exam Strategies | Reference |
-| 11 | Primer Design | Some Information about Course Contents, References, Exam Strategies | Reference |
-| 12 | Cloning | Some Information about Course Contents, References, Exam Strategies | Reference |
-| 13 | Bioinformatics Commandments / Students’ Projects | Some Information about Course Contents, References, Exam Strategies | Reference |
+| 3 | NCBI Databases and Search | Learning how to Access to Sequence Data and Literature Information | Reference |
+| 3-1 | Practical Session | NCBI Databases and Search | Reference |
+| 4 | Alignment | Learning Pairwise Sequence Alignment (Theory and Algorithm), Learning Basic Local Alignment Search Tool (BLAST) | Reference |
+| 5 | Alignment | Learning Pairwise Sequence Alignment (Theory and Algorithm), Learning Basic Local Alignment Search Tool (BLAST) | Reference |
+| 6 | Alignment | Practical-Learning NCBI Local Alignment Search Tool | Reference |
+| 6-1 | Practical Session | Alignment | Reference |
+| 7 | Alignment | Practical-Learning NCBI Local Alignment Search Tool | Reference |
+| 7-1 | Practical Session | Alignment | Reference |
+| 8 | Alignment | Practical-Learning NCBI Local Alignment Search Tool | Reference |
+| 8-1 | Practical Session | Alignment | Reference |
+| 9 | SNPs | Learning About: SNP Classes, MAF,   Synonymous vs Nonsynonymous SNPs, NCBI SNP Database | Reference |
+| 9-1 | Self-Study | Working with DNA and RNA Sequences | Reference |
+| 10 | Multiple Sequence Alignment / Phylogeny | Learning About: Molecular Phylogeny and Evolution | Reference |
+| 10-1 | Self-Study | Working with Protein Sequences | Reference |
+| 11 | Primer Design | Learning About: Fundamentals of  Primer Design, Primer Length,  Reasonable GC Content and Tm, Examining Designed Primer,  NCBI Primer BLAST, Primer Design Softwares | Reference |
+| 12 | Primer Design | Learning About: Fundamentals of  Primer Design, Primer Length,  Reasonable GC Content and Tm, Examining Designed Primer,  NCBI Primer BLAST, Primer Design Softwares | Reference |
+| 13 | Cloning | Learning About: Fundamentals of  Cloning, Vector, Plasmid,  Restriction Sites, Restriction Enzymes, Plasmid Databases, In silico cloning, Cloning Softwares | Reference |
+| 14 | Bioinformatics Commandments / Students’ Seminar | Important rules of Bioinformatics, Students’ Seminar | Reference |
