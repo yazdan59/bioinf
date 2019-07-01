@@ -10,7 +10,7 @@ Pattern Recognition and Machine Learning by Christopher Bishop.
 # Lecture Schedule
 | Date | Title | Description | Reference |
 | --- | --- | --- | --- |
-| 1 | Introduction | Some Information about Course Contents, References, Exam Strategies | Reference |
+| 1 | Introduction | Some Information about Course Contents, References, Exam Strategies | -- |
 | 2 | NCBI Databases and Search | Learning how to Access to Sequence Data and Literature Information | Chapter 2 & 5: Bioinformatics and Functional Genomics, Jonathan Pevsner, John Wiley & Sons, Inc., Second Edition, 2009 |
 | 3 | NCBI Databases and Search | Learning how to Access to Sequence Data and Literature Information | Chapter 2 & 5: Bioinformatics and Functional Genomics, Jonathan Pevsner, John Wiley & Sons, Inc., Second Edition, 2009 |
 | 3-1 | Practical Session | NCBI Databases and Search | Reference |
