@@ -26,7 +26,10 @@ Pattern Recognition and Machine Learning by Christopher Bishop.
 | 9-1 | Self-Study | Working with DNA and RNA Sequences | Reference |
 | 10 | Multiple Sequence Alignment / Phylogeny | Learning About: Molecular Phylogeny and Evolution | Reference |
 | 10-1 | Self-Study | Working with Protein Sequences | Reference |
+| 10-2 | Practical Session | SNPs-Multiple Sequence Alignment | Reference |
 | 11 | Primer Design | Learning About: Fundamentals of  Primer Design, Primer Length,  Reasonable GC Content and Tm, Examining Designed Primer,  NCBI Primer BLAST, Primer Design Softwares | Reference |
+| 11-1 | Practical Session | Primer Design | Reference |
 | 12 | Primer Design | Learning About: Fundamentals of  Primer Design, Primer Length,  Reasonable GC Content and Tm, Examining Designed Primer,  NCBI Primer BLAST, Primer Design Softwares | Reference |
+| 12-1 | Practical Session | Primer Design | Reference |
 | 13 | Cloning | Learning About: Fundamentals of  Cloning, Vector, Plasmid,  Restriction Sites, Restriction Enzymes, Plasmid Databases, In silico cloning, Cloning Softwares | Reference |
 | 14 | Bioinformatics Commandments / Students’ Seminar | Important rules of Bioinformatics, Students’ Seminar | Reference |
