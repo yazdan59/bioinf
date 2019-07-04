@@ -24,8 +24,7 @@ Pattern Recognition and Machine Learning by Christopher Bishop.
 | 98/8/26 | Practical Session | Alignment | -- |
 | 98/8/27 | SNPs | Learning About: SNP Classes, MAF, Synonymous vs Nonsynonymous SNPs, NCBI SNP Database | Chapter 16: Bioinformatics and Functional Genomics, Jonathan Pevsner, John Wiley & Sons, Inc., Second Edition, 2009 |
 | 98/8/27 | Self-Study | Working with DNA and RNA Sequences | Reference |
-| 98/9/4 | Multiple Sequence Alignment / Phylogeny | Learning About: Molecular Phylogeny and Evolution | Chapter 6 & 7: Bioinformatics and Functional Genomics, Jonathan Pevsner, John Wiley & Sons, Inc., Second Edition, 2009
-Chapter 6: Bioinformatics-Sequence and Genome Analysis, Mount,  Cold Spring Harbor Laboratory Press, 2nd edition, 2001 |
+| 98/9/4 | Multiple Sequence Alignment / Phylogeny | Learning About: Molecular Phylogeny and Evolution | Chapter 6 & 7: Bioinformatics and Functional Genomics, Jonathan Pevsner, John Wiley & Sons, Inc., Second Edition, 2009<br>Chapter 6: Bioinformatics-Sequence and Genome Analysis, Mount,  Cold Spring Harbor Laboratory Press, 2nd edition, 2001 |
 | 98/9/4 | Self-Study | Working with Protein Sequences | Reference |
 | 98/9/10 | Practical Session | SNPs-Multiple Sequence Alignment | -- |
 | 98/9/11 | Primer Design | Learning About: Fundamentals of  Primer Design, Primer Length,  Reasonable GC Content and Tm, Examining Designed Primer,  NCBI Primer BLAST, Primer Design Softwares | PCR Primer Design, Yuryev, Humana Press, 2007 |
