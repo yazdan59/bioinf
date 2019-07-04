@@ -19,16 +19,16 @@ CLC Sequence Viewer 7.7.1 User Manual, 2016
 | 98/7/1 | NCBI Databases and Search | Learning how to Access to Sequence Data and Literature Information | Chapters 2 & 5: Bioinformatics and Functional Genomics, Pevsner, 2015 |
 | 98/7/8 | NCBI Databases and Search | Learning how to Access to Sequence Data and Literature Information | Chapters 2 & 5: Bioinformatics and Functional Genomics, Pevsner, 2015 |
 | 98/7/14 | Practical Session | NCBI Databases and Search | -- |
-| 98/7/15 | Alignment | Learning Pairwise Sequence Alignment (Theory and Algorithm) | Chapter 2: Biological Sequence Analysis: Probabilistic models of proteins and nucleic acids, Durbin, 1998 |
-| 98/7/22 | Alignment | Learning Pairwise Sequence Alignment (Theory and Algorithm) | Chapter 2: Biological Sequence Analysis: Probabilistic models of proteins and nucleic acids, Durbin, 1998 |
-| 98/7/29 | Alignment | Learning Pairwise Sequence Alignment (Practical) | Chapter 2: Biological Sequence Analysis: Probabilistic models of proteins and nucleic acids, Durbin, 1998 |
+| 98/7/15 | Alignment | Learning Pairwise Sequence Alignment (Theory and Algorithm) | Chapter 2: Biological Sequence Analysis: Probabilistic models of proteins and nucleic acids, Durbin, 1998<br> Chapters 2 & 5: Bioinformatics and Functional Genomics, Pevsner, 2015 |
+| 98/7/22 | Alignment | Learning Pairwise Sequence Alignment (Theory and Algorithm) | Chapter 2: Biological Sequence Analysis: Probabilistic models of proteins and nucleic acids, Durbin, 1998<br> Chapters 2 & 5: Bioinformatics and Functional Genomics, Pevsner, 2015 |
+| 98/7/29 | Alignment | Learning Pairwise Sequence Alignment (Practical) | Chapter 2: Biological Sequence Analysis: Probabilistic models of proteins and nucleic acids, Durbin, 1998<br> Chapters 2 & 5: Bioinformatics and Functional Genomics, Pevsner, 2015 |
 | 98/8/12 | Practical Session | Alignment | -- |
-| 98/8/13 | Alignment | Learning Pairwise Sequence Alignment (Practical) | Chapter 2: Biological Sequence Analysis: Probabilistic models of proteins and nucleic acids, Durbin, 1998 |
+| 98/8/13 | Alignment | Learning Pairwise Sequence Alignment (Practical) | Chapter 2: Biological Sequence Analysis: Probabilistic models of proteins and nucleic acids, Durbin, 1998<br> Chapters 2 & 5: Bioinformatics and Functional Genomics, Pevsner, 2015 |
 | 98/8/19 | Practical Session | Alignment | -- |
-| 98/8/20 | Alignment | Learning Pairwise Sequence Alignment (Practical) | Chapter 2: Biological Sequence Analysis: Probabilistic models of proteins and nucleic acids, Durbin, 1998 |
+| 98/8/20 | Alignment | Learning Pairwise Sequence Alignment (Practical) | Chapter 2: Biological Sequence Analysis: Probabilistic models of proteins and nucleic acids, Durbin, 1998<br> Chapters 2 & 5: Bioinformatics and Functional Genomics, Pevsner, 2015 |
 | 98/8/26 | Practical Session | Alignment | -- |
 | 98/8/27 | SNPs | Learning About: SNP Classes, MAF, Synonymous vs Nonsynonymous SNPs, NCBI SNP Database | Paper#1, Paper#2 |
-| 98/8/27 | Self-Study | Working with DNA and RNA Sequences | Reference |
+| 98/8/27 | Self-Study | Working with DNA and RNA Sequences | Slide |
 | 98/9/4 | Multiple Sequence Alignment / Phylogeny | Learning About: Molecular Phylogeny and Evolution | Chapter 6 & 7: Bioinformatics and Functional Genomics, Jonathan Pevsner, John Wiley & Sons, Inc., Second Edition, 2009<br>Chapter 6: Bioinformatics-Sequence and Genome Analysis, Mount,  Cold Spring Harbor Laboratory Press, 2nd edition, 2001 |
 | 98/9/4 | Self-Study | Working with Protein Sequences | Reference |
 | 98/9/10 | Practical Session | SNPs-Multiple Sequence Alignment | -- |
