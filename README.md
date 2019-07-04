@@ -10,7 +10,7 @@ Biological Sequence Analysis: Probabilistic models of proteins and nucleic acids
 Bioinformatics, A Practical Guide to the Analysis of Genes and Proteins,  A.D. Baxevanis,  B.F.F. Ouellette, Second Edition, 2001<br>
 Bioinformatics-Sequence and Genome Analysis, Mount, Cold Spring Harbor Laboratory Press, First Edition, 2001<br>
 PCR Primer Design, Yuryev, Humana Press, 2007<br>
-CLC Sequence Viewer 7.7.1 User Manual, 2016
+CLC Sequence Viewer 7.7.1 User Manual, 2016 ([download](/ref/2016-CLC_Sequence_Viewer_7_7_1_User_Manual.pdf))
 # Exam
 # Lecture Schedule
 | Date | Title | Description | Reference |
