@@ -28,9 +28,8 @@ CLC Sequence Viewer 7.7.1 User Manual, 2016 ([download](/ref/2016-CLC_Sequence_V
 | 98/8/20 | Alignment | Learning Pairwise Sequence Alignment (Practical) | Chapter 2: Biological Sequence Analysis: Probabilistic models of proteins and nucleic acids, Durbin, 1998<br> Chapters 3 & 4: Bioinformatics and Functional Genomics, Pevsner, 2015 |
 | 98/8/26 | Practical Session | Alignment | -- |
 | 98/8/27 | SNPs | Learning About: SNP Classes, MAF, Synonymous vs Nonsynonymous SNPs, NCBI SNP Database | [Paper#1](/ref/snp_1.pdf), [Paper#2](/ref/snp_2.pdf), [Paper#3](/ref/snp_3.pdf)<br>[(Slide)](/slides/SNP_factsheet.pdf) |
-| 98/8/27 | Self-Study | Working with DNA and RNA Sequences | [(Slide_DNA)](/slides/Working_with_DNA.zip)<br>[(Slide_RNA)](/slides/Working_with_RNA.pdf) |
+| 98/8/27 | Self-Study | Working with DNA, RNA, and Protein Sequences | [(Slide_DNA)](/slides/Working_with_DNA.zip)<br>[(Slide_RNA)](/slides/Working_with_RNA.pdf)<br>[(Slide_Protein)](/slides/Working_with_Proteins.zip) |
 | 98/9/4 | Multiple Sequence Alignment, Phylogeny | Learning About: Molecular Phylogeny and Evolution | Chapters 6 & 7: Bioinformatics and Functional Genomics, Pevsner, 2015<br>Chapter 6: Bioinformatics-Sequence and Genome Analysis, Mount,  Cold Spring Harbor Laboratory Press, 2nd edition, 2001<br>[(Slide)](/slides/MSA_Phylogeny.pdf) |
-| 98/9/4 | Self-Study | Working with Protein Sequences | [(Slide_Protein)](/slides/Working_with_Proteins.zip) |
 | 98/9/10 | Practical Session | SNPs-Multiple Sequence Alignment | -- |
 | 98/9/11 | Primer Design | Learning About: Fundamentals of  Primer Design, Primer Length,  Reasonable GC Content and Tm, Examining Designed Primer,  NCBI Primer BLAST | PCR Primer Design, Yuryev, Humana Press, 2007<br>[(Slide)](/slides/Primer_Design.pdf) |
 | 98/9/17 | Practical Session | Primer Design | -- |
