@@ -1,7 +1,7 @@
 # Bioinformatics 
 # Overview
 # Instructor: 
-Dr. Yazdan Asgari (yasgari at tums.ac.ir) ([Webpage](https://www.tums.ac.ir/faculties/yasgari))
+Dr. Yazdan Asgari (yasgari at tums.ac.ir) ([Webpage](https://www.tums.ac.ir/faculties/yasgari){:target="_blank"})
 # Time & Location: 
 Sep-Dec 2019, lectures are held on Mondays 10:00 to 12:00 at Class#1, School of Advanced Technologies in Medicine, Tehran University of Medical Sciences, practical sessions are held on Sundays 10:00 to 12:00 at computer room (2nd floor), School of Advanced Technologies in Medicine, Tehran University of Medical Sciences
 # Textbooks
