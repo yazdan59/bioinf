@@ -27,7 +27,7 @@ CLC Sequence Viewer 7.7.1 User Manual, 2016
 | 98/8/19 | Practical Session | Alignment | -- |
 | 98/8/20 | Alignment | Learning Pairwise Sequence Alignment (Practical) | Chapter 2: Biological Sequence Analysis: Probabilistic models of proteins and nucleic acids, Durbin, 1998<br> Chapters 3 & 4: Bioinformatics and Functional Genomics, Pevsner, 2015 |
 | 98/8/26 | Practical Session | Alignment | -- |
-| 98/8/27 | SNPs | Learning About: SNP Classes, MAF, Synonymous vs Nonsynonymous SNPs, NCBI SNP Database | Paper#1, Paper#2 |
+| 98/8/27 | SNPs | Learning About: SNP Classes, MAF, Synonymous vs Nonsynonymous SNPs, NCBI SNP Database | [Paper#1](../tree/master/ref/snp_1.pdf), Paper#2, Paper#3 |
 | 98/8/27 | Self-Study | Working with DNA and RNA Sequences | Slide |
 | 98/9/4 | Multiple Sequence Alignment / Phylogeny | Learning About: Molecular Phylogeny and Evolution | Chapters 6 & 7: Bioinformatics and Functional Genomics, Pevsner, 2015<br>Chapter 6: Bioinformatics-Sequence and Genome Analysis, Mount,  Cold Spring Harbor Laboratory Press, 2nd edition, 2001 |
 | 98/9/4 | Self-Study | Working with Protein Sequences | Slide |
