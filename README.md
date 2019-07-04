@@ -5,11 +5,11 @@ Yazdan Asgari (yasgari at tums.ac.ir)
 # Time & Location: 
 Sep-Dec 2019, lectures are held on Mondays 10:00 to 12:00 at Class#1, School of Advanced Technologies in Medicine, Tehran University of Medical Sciences, practical sessions are held on Sundays 10:00 to 12:00 at computer room (2nd floor), School of Advanced Technologies in Medicine, Tehran University of Medical Sciences
 # Textbooks
-Bioinformatics and Functional Genomics, Jonathan Pevsner, John Wiley & Sons, Inc., Third Edition, 2015
-Biological Sequence Analysis: Probabilistic models of proteins and nucleic acids, R. Durbin, S. Eddy, A. Krogh and G. Mitchison. Cambridge University Press, Seventh printing, 2002
-Bioinformatics, A Practical Guide to the Analysis of Genes and Proteins,  A.D. Baxevanis,  B.F.F. Ouellette, Second Edition, 2001
-Bioinformatics-Sequence and Genome Analysis, Mount,  Cold Spring Harbor Laboratory Press, 2nd edition, 2001
-PCR Primer Design, Yuryev, Humana Press, 2007
+Bioinformatics and Functional Genomics, Jonathan Pevsner, John Wiley & Sons, Inc., Third Edition, 2015<br>
+Biological Sequence Analysis: Probabilistic models of proteins and nucleic acids, R. Durbin, S. Eddy, A. Krogh and G. Mitchison. Cambridge University Press, Seventh printing, 2002<br>
+Bioinformatics, A Practical Guide to the Analysis of Genes and Proteins,  A.D. Baxevanis,  B.F.F. Ouellette, Second Edition, 2001<br>
+Bioinformatics-Sequence and Genome Analysis, Mount,  Cold Spring Harbor Laboratory Press, 2nd edition, 2001<br>
+PCR Primer Design, Yuryev, Humana Press, 2007<br>
 CLC Sequence Viewer 7.7.1 User Manual, 2016
 # Exam
 # Lecture Schedule
