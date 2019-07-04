@@ -16,16 +16,16 @@ CLC Sequence Viewer 7.7.1 User Manual, 2016
 | Date | Title | Description | Reference |
 | --- | --- | --- | --- |
 | 98/6/25 | Introduction | Some Information about Course Contents, References, Exam Strategies | -- |
-| 98/7/1 | NCBI Databases and Search | Learning how to Access to Sequence Data and Literature Information | Chapter 2 & 5: Bioinformatics and Functional Genomics, Jonathan Pevsner, John Wiley & Sons, Inc., Second Edition, 2009 |
-| 98/7/8 | NCBI Databases and Search | Learning how to Access to Sequence Data and Literature Information | Chapter 2 & 5: Bioinformatics and Functional Genomics, Jonathan Pevsner, John Wiley & Sons, Inc., Second Edition, 2009 |
+| 98/7/1 | NCBI Databases and Search | Learning how to Access to Sequence Data and Literature Information | Chapters 2 & 5: Bioinformatics and Functional Genomics, Pevsner, 2015 |
+| 98/7/8 | NCBI Databases and Search | Learning how to Access to Sequence Data and Literature Information | Chapters 2 & 5: Bioinformatics and Functional Genomics, Pevsner, 2015 |
 | 98/7/14 | Practical Session | NCBI Databases and Search | -- |
-| 98/7/15 | Alignment | Learning Pairwise Sequence Alignment (Theory and Algorithm), Learning Basic Local Alignment Search Tool (BLAST) | Chapter 2: Biological Sequence Analysis: Probabilistic models of proteins and nucleic acids, R. Durbin, S. Eddy, A. Krogh and G. Mitchison. Cambridge University Press, Seventh printing, 2002 |
-| 98/7/22 | Alignment | Learning Pairwise Sequence Alignment (Theory and Algorithm), Learning Basic Local Alignment Search Tool (BLAST) | Chapter 2: Biological Sequence Analysis: Probabilistic models of proteins and nucleic acids, R. Durbin, S. Eddy, A. Krogh and G. Mitchison. Cambridge University Press, Seventh printing, 2002 |
-| 98/7/29 | Alignment | Practical-Learning NCBI Local Alignment Search Tool | Chapter 2: Biological Sequence Analysis: Probabilistic models of proteins and nucleic acids, R. Durbin, S. Eddy, A. Krogh and G. Mitchison. Cambridge University Press, Seventh printing, 2002 |
+| 98/7/15 | Alignment | Learning Pairwise Sequence Alignment (Theory and Algorithm) | Chapter 2: Biological Sequence Analysis: Probabilistic models of proteins and nucleic acids, Durbin, 1998 |
+| 98/7/22 | Alignment | Learning Pairwise Sequence Alignment (Theory and Algorithm) | Chapter 2: Biological Sequence Analysis: Probabilistic models of proteins and nucleic acids, Durbin, 1998 |
+| 98/7/29 | Alignment | Learning Pairwise Sequence Alignment (Practical) | Chapter 2: Biological Sequence Analysis: Probabilistic models of proteins and nucleic acids, Durbin, 1998 |
 | 98/8/12 | Practical Session | Alignment | -- |
-| 98/8/13 | Alignment | Practical-Learning NCBI Local Alignment Search Tool | Chapter 2: Biological Sequence Analysis: Probabilistic models of proteins and nucleic acids, R. Durbin, S. Eddy, A. Krogh and G. Mitchison. Cambridge University Press, Seventh printing, 2002 |
+| 98/8/13 | Alignment | Learning Pairwise Sequence Alignment (Practical) | Chapter 2: Biological Sequence Analysis: Probabilistic models of proteins and nucleic acids, Durbin, 1998 |
 | 98/8/19 | Practical Session | Alignment | -- |
-| 98/8/20 | Alignment | Practical-Learning NCBI Local Alignment Search Tool | Chapter 2: Biological Sequence Analysis: Probabilistic models of proteins and nucleic acids, R. Durbin, S. Eddy, A. Krogh and G. Mitchison. Cambridge University Press, Seventh printing, 2002 |
+| 98/8/20 | Alignment | Learning Pairwise Sequence Alignment (Practical) | Chapter 2: Biological Sequence Analysis: Probabilistic models of proteins and nucleic acids, Durbin, 1998 |
 | 98/8/26 | Practical Session | Alignment | -- |
 | 98/8/27 | SNPs | Learning About: SNP Classes, MAF, Synonymous vs Nonsynonymous SNPs, NCBI SNP Database | Chapter 16: Bioinformatics and Functional Genomics, Jonathan Pevsner, John Wiley & Sons, Inc., Second Edition, 2009 |
 | 98/8/27 | Self-Study | Working with DNA and RNA Sequences | Reference |
