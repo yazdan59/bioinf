@@ -37,4 +37,4 @@ CLC Sequence Viewer 7.7.1 User Manual, 2016 ([download](/ref/2016-CLC_Sequence_V
 | 98/9/18 | Primer Design | Learning About: Fundamentals of  Primer Design, Primer Length,  Reasonable GC Content and Tm, Examining Designed Primer,  NCBI Primer BLAST | PCR Primer Design, Yuryev, Humana Press, 2007 |
 | 98/9/24 | Practical Session | Primer Design | -- |
 | 98/9/25 | Cloning | Learning About: Fundamentals of  Cloning, Vector, Plasmid,  Restriction Sites, Restriction Enzymes, Plasmid Databases, In silico cloning | Chapters 9 & 12 & 13: CLC Sequence Viewer 7.7.1 User Manual, 2016<br>[(Slide)](/slides/Cloning.pdf) |
-| 98/10/2 | Bioinformatics Commandments, Seminar | Important rules of Bioinformatics, Students’ Seminars | <br>[(Slide)](/slides/Bioinformatics_Commandments.pdf) |
+| 98/10/2 | Bioinformatics Commandments, Seminar | Important rules of Bioinformatics, Students’ Seminars | [(Slide)](/slides/Bioinformatics_Commandments.pdf) |
