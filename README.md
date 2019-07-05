@@ -18,7 +18,7 @@ The Score for this course would be taken through several parts including Take Ho
 | --- | --- | --- | --- |
 | 98/6/25 | Introduction | Some Information about Course Contents, References, Exam Strategies | -- |
 | 98/7/1 | NCBI Databases and Search | Learning how to Access to Sequence Data and Literature Information | Chapters 2 & 5: Bioinformatics and Functional Genomics, Pevsner, 2015<br>[(Slide)](/slides/Database_Pubmed_DNA_Databases.pdf) |
-| 98/7/8 | NCBI Databases and Search | Learning how to Access to Sequence Data and Literature Information | Chapters 2 & 5: Bioinformatics and Functional Genomics, Pevsner, 2015 |
+| 98/7/8 | NCBI Databases and Search<br>[Assignment#1]() | Learning how to Access to Sequence Data and Literature Information | Chapters 2 & 5: Bioinformatics and Functional Genomics, Pevsner, 2015 |
 | 98/7/14 | Practical Session | NCBI Databases and Search | -- |
 | 98/7/15 | Alignment | Learning Pairwise Sequence Alignment (Theory and Algorithm) | Chapter 2: Biological Sequence Analysis: Probabilistic models of proteins and nucleic acids, Durbin, 1998<br> Chapters 3 & 4: Bioinformatics and Functional Genomics, Pevsner, 2015<br>[(Slide)](/slides/Alignment.pdf) |
 | 98/7/22 | Alignment | Learning Pairwise Sequence Alignment (Theory and Algorithm) | Chapter 2: Biological Sequence Analysis: Probabilistic models of proteins and nucleic acids, Durbin, 1998<br> Chapters 3 & 4: Bioinformatics and Functional Genomics, Pevsner, 2015 |
