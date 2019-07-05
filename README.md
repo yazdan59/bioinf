@@ -1,5 +1,5 @@
 # Bioinformatics 
-# Overview
+Bioinformatics is the computer-aided study of biological data. Bioinformatics includes Three major parts: Sequence Analysis, Structural Bioinformatics, and Systems Biology. Each part deals with different biological issues which needs various skiils and abilities to be expert at. For example, bioinformatics scientists are tasked with performing high-throughput, next-generation sequencing in Sequence Analysis part. They analyze DNA sequence alignment to find mutations and anomalies and understand the impact on cellular processes. For Structural Bioinformatics, a bioinformatician uses software to analyze protein structure and its impact on cell function. For Systems Biology part, a bioinformatician deals with genes, proteins, and other biological molecules considering their interactions as well. <br>In general, bioinformatics focuses on extracting new information from massive quantities of biological data and requires that scientists know the tools and methods for capturing, processing and analyzing large data sets. Learning how to design experiments and perform advanced statistical analysis is essential for anyone interested in this field.<br> In this course, we try to deal with some primary bioinformatics analysis methods used for study of biological data (mostly in Sequence Analysis part).<br>We also recommend interested students to participate in Computational and Systems Biology course (for Systems Biology part) and Protein Engineering course (for Structural Bioinformatics part).
 # Instructor: 
 Dr. Yazdan Asgari (yasgari at tums.ac.ir) ([Webpage](https://www.tums.ac.ir/faculties/yasgari))
 # Time & Location: 
@@ -12,6 +12,7 @@ Bioinformatics-Sequence and Genome Analysis, Mount, Cold Spring Harbor Laborator
 PCR Primer Design, Yuryev, Humana Press, 2007<br>
 CLC Sequence Viewer 7.7.1 User Manual, 2016 ([download](/ref/2016-CLC_Sequence_Viewer_7_7_1_User_Manual.pdf))
 # Exam
+The Score for this course would be taken through several parts including Take Home Exams for every session, 7 Assignments during the semester, Student' Seminar in the last session, and a Final Exam. 
 # Lecture Schedule
 | Date | Title | Description | Reference |
 | --- | --- | --- | --- |
